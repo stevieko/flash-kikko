@@ -11,13 +11,13 @@ package fr.kikko.lab {
 	/**
 	 * @author kikko.fr
 	 */
-	public class MP3EncoderTest extends Sprite {
+	public class ShineMP3EncoderTest extends Sprite {
 	
 		private var mp3Encoder:ShineMP3Encoder;
 		private var wavLoader:FileReference;
 		private var gui:GUI;
 		
-		public function MP3EncoderTest() {
+		public function ShineMP3EncoderTest() {
 			
 			//addChild(new Stats());
 			
